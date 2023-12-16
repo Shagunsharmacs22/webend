@@ -1,0 +1,122 @@
+#nav{
+    background-image: url('./dark.jpg');
+    height: 550px;
+    width: 100%;
+    margin-top: none;
+}
+.hovr{
+    padding-top: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: none;
+
+}
+.hovr:hover{
+    background-color: white;
+    color: black;
+}
+.Los1{
+    color: white;
+    margin-left: 670px;
+    padding-top: 350px;
+}
+.Los2{
+    color: white;
+    margin-left: 600px;
+}
+#about{
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 70px;
+}
+.pics{
+    display: flex;
+}
+.name{
+    margin-left: 320px;
+}
+.shagg{
+    width: 20%;
+    margin-left: 150px;
+}
+.images{
+    margin-left: 20px;
+}
+#cards{
+    background-color: black;
+    margin-top: 90px;
+    color: white;
+    height: 600px;
+}
+.tourplace{
+    padding-top: 60px;
+    padding-left: 600px;
+}
+.places{
+    padding-top: 30px;
+    padding-left: 300px;
+}
+.pla{
+    padding-left: 20px;
+
+}
+.plac{
+    width: 275px;
+    height: 183px;
+    padding-left: 20px;
+}
+.write{
+    padding-left: 300px;
+    display: flex;
+}
+.white{
+    background-color: white;
+    color: black;
+    padding-left: 30px;
+    width: 275px;
+    height: 200px;
+}
+.space{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.set{
+    display: flex;
+}
+.input{
+    margin-left: 500px;
+    margin-top: 60px;
+}
+.button{
+    background-color: black;
+    color: white;
+    margin-left: 290px;
+    margin-top: 10px;
+}
+.wid{
+    width: 340px;
+    margin-top: 10px;
+}
+.button:hover{
+   background-color: grey;
+   color: black;
+}
+#foot{
+    height: 500px;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.black:hover{
+    background-color: grey;
+    color: black;
+}
+.no{
+    text-decoration: none;
+}
+  
+  
